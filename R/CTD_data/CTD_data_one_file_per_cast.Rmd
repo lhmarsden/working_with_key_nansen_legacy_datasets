@@ -1,0 +1,13 @@
+## Load libraries
+
+Firstly, let's load the libraries that we will use.
+
+They will need to be installed first if you don't already have them.
+
+```{r}
+#install.packages('writexl')
+library(writexl)
+#install.packages("RNetCDF")
+library(RNetCDF)
+```
+
